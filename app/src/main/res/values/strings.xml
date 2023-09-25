@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WalletConnect V2 Integration</string>
+    <string name="app_name">Wallet-Connect V2</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
