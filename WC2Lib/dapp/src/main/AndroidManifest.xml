@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <queries>
+        <package android:name="io.metamask" />
+        <package android:name="com.wallet.crypto.trustapp" />
+        <package android:name="io.gnosis.safe" />
+        <package android:name="me.rainbow" />
+        <package android:name="im.token.app" />
+        <package android:name="io.zerion.android" />
+        <package android:name="com.spot.spot" />
+        <package android:name="fi.steakwallet.app" />
+        <package android:name="vip.mytokenpocket" />
+        <package android:name="com.frontierwallet" />
+        <package android:name="com.bitkeep.wallet" />
+        <package android:name="im.argent.contractwalletclient" />
+        <package android:name="com.walletconnect.sample.wallet" />
+    </queries>
+
+    <application
+        android:name=".DappSampleApp"
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity
+            android:name="com.walletconnect.sample.dapp.ui.DappSampleActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data
+                    android:host="request"
+                    android:scheme="kotlin-dapp-wc" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

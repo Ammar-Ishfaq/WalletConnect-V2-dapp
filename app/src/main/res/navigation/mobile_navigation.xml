@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.ammar.wc_v2_integration.ui.dashboard.DashboardFragment"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_wallet_connect"
+        android:name="com.ammar.wc_v2_integration.ui.walletConnect.WalletConnectFragment"
+        tools:layout="@layout/fragment_wallet_connect" />
+
+  
+</navigation>
