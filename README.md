@@ -19,8 +19,9 @@ The WalletConnect-V2-dapp is a mobile application that enables users to connect 
 
 Before using the WalletConnect-V2-dapp, ensure you have the following prerequisites:
 
-- An Android device running Android OS version X.X or higher.
-- MetaMask or Trust Wallet installed on your Android device.
+- An Android device running Android OS version 6.0 or higher.
+- WalletConnect v2 [ProjectId](https://cloud.walletconnect.com/sign-in).
+- MetaMask, Trust Wallet, or any wallet supported by WC installed on your Android device.
 - Internet connectivity.
 
 ## Installation
