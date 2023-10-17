@@ -13,6 +13,8 @@ The WalletConnect-V2-dapp is a mobile application that enables users to connect 
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
 
 
 ## Prerequisites
@@ -73,4 +75,13 @@ We welcome contributions from the community. To contribute to this Android app, 
 6. Submit a pull request to the main repository, describing your changes in detail.
 
 Please ensure your code adheres to the project's coding standards and conventions.
+
+## License 
+The Apache 2.0 license. See LICENSE for details.
+
+## Credits:
+All Credits go to the official repo of [WalletConnect v2](https://github.com/WalletConnect/WalletConnectKotlinV2) as this is built using that.
+
+Thankyou [WalletConnect v2](https://github.com/WalletConnect/WalletConnectKotlinV2).
+
 
