@@ -1,10 +1,9 @@
 # WalletConnect-V2-dapp
 
-![App Logo](https://raw.githubusercontent.com/Ammar-Ishfaq/WalletConnect-V2-dapp/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp) <!-- Include an image of your app or logo, if available -->
-
+![App Screenshot](https://raw.githubusercontent.com/Ammar-Ishfaq/WalletConnect-V2-dapp/main/app/src/main/res/drawable/screenshot_wc_2_bottom_sheet.png) 
 ## Overview
 
-The WalletConnect-V2-dapp is a mobile application that enables users to connect their wallets to decentralized applications (DApps) securely using WalletConnect V2. This app facilitates seamless interactions with blockchain networks and allows users to perform transactions with ease.
+The WalletConnect V2 dapp is a mobile application that enables users to connect their wallets to decentralized applications (DApps) securely using WalletConnect V2. This app facilitates seamless interactions with blockchain networks and allows users to perform transactions with ease.
 
 ## Table of Contents
 
@@ -19,7 +18,7 @@ The WalletConnect-V2-dapp is a mobile application that enables users to connect 
 
 ## Prerequisites
 
-Before using the WalletConnect-V2-dapp, ensure you have the following prerequisites:
+Before using the WalletConnect V2 dapp, ensure you have the following prerequisites:
 
 - An Android device running Android OS version 6.0 or higher.
 - WalletConnect v2 [ProjectId](https://cloud.walletconnect.com/sign-in).
@@ -28,13 +27,13 @@ Before using the WalletConnect-V2-dapp, ensure you have the following prerequisi
 
 ## Installation
 
-To install and use the WalletConnect-V2-dapp:
+To install and use the WalletConnect V2 dapp:
 
 1. Download the latest APK file from the [releases section](https://github.com/Ammar-Ishfaq/WalletConnect-V2-dapp/tree/main/demo-apk) of this repository.
 
 2. Install the APK on your Android device by opening the file and following the on-screen instructions.
 
-3. Open the WalletConnect-V2-dapp on your device.
+3. Open the WalletConnect V2 dapp on your device.
 
 ## Features
 
@@ -44,7 +43,7 @@ To install and use the WalletConnect-V2-dapp:
 
 ## Usage
 
-1. Launch the WalletConnect-V2-dapp on your device.
+1. Launch the WalletConnect V2 dapp on your device.
 
 2. Tap the "Connect Wallet" button.
 
@@ -56,7 +55,7 @@ To install and use the WalletConnect-V2-dapp:
 
 6. You are now connected to the app and can use your wallet for transactions and interactions with blockchain networks.
 
-![App Screenshot](https://raw.githubusercontent.com/Ammar-Ishfaq/WalletConnect-V2-dapp/main/app/src/main/res/drawable/screenshot_wc_2_bottom_sheet.png) <!-- Include a screenshot of your app in action, if available -->
+
 
 ## Contributing
 
