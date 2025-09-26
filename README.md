@@ -83,4 +83,20 @@ All Credits go to the official repo of [WalletConnect v2](https://github.com/Wal
 
 Thankyou [WalletConnect v2](https://github.com/WalletConnect/WalletConnectKotlinV2).
 
+## Base Network Example
+
+### Installation
+1. npm install
+2. npm run dev
+
+### Connect Wallet
+- Open the dApp
+- Click "Connect Wallet" → select WalletConnect
+- Confirm wallet connection in your wallet
+
+### Test Transaction
+- Send a small test transaction on Base Sepolia
+- Check console or transaction log
+
+
 
